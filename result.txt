@@ -1,0 +1,49 @@
+title: sku
+unique terms size: 5251
+top 10 :11341 "DYNAMIC BK":1 CANDY-MN-6.5:1 ALLEGRA-BL-6.5:1 BARBARA-RD-8.5:1 Anna1-BK-6.5:1 LAMB-PK-11:1 "Star CR-6.5":1 "Bubbles PU-10":1 IMMORTAL-WH-6.5:1
+
+title: _attribute_set
+unique terms size: 7
+top 10 :11337 Default:2868 Shoes:2079 Handbags:293 Sizes:8 "Gift Card":4 Membership:2
+
+title: _category
+unique terms size: 37
+top 10 :12092 "Shop by Mood/All Moods":630 "Shop by Mood":630 "Shop Shoes/All Shoes":595 "Shop Shoes":590 "New Arrivals/All New Arrivals":415 "Shop Shoes/Pumps":290 "Shop Handbags ":287 "Shop Shoes/Boots ":111 "New Arrivals":104
+
+title: created_at
+unique terms size: 5251
+top 10 :11337 "2012-12-06 00:07:36":2 "2012-12-06 00:25:09":2 "2012-12-06 00:11:42":2 "2012-12-06 01:17:58":2 "2012-12-05 19:31:15":1 "2013-02-25 23:41:49":1 "2013-04-12 16:49:55":1 "2013-01-04 01:49:15":1 "2013-10-24 18:58:09":1
+
+title: updated_at
+unique terms size: 5249
+top 10 :11337 "2013-01-26 01:32:54":2 "2013-01-25 23:34:45":2 "2013-01-26 01:18:38":2 "2013-01-29 00:09:09":2 "2013-01-29 00:36:22":2 "2013-01-26 00:40:18":2 "2012-12-10 22:59:24":1 "2013-01-25 22:36:04":1 "2013-10-24 19:38:49":1
+
+title: url_path
+unique terms size: 5255
+top 10 :11337 envy-gold-8-5.html:1 coco-blue.html:1 adora-nude-8-5.html:1 immortal-9.html:1 lusso-white-7-5.html:1 sunset-peach-6.html:1 ada-black.html:1 anatashia-blue-8.html:1 oh-la-la-8.html:1
+
+title: weight
+unique terms size: 52
+top 10 :11938 2.0001:993 1.5000:478 2.0000:420 1.9000:305 2.2000:256 2.1000:202 1.0000:191 1.8000:153 2.5000:120
+
+title: ws_location
+unique terms size: 7
+top 10 :16209 Pumps:166 Boots:133 Heels:36 Sneakers:18 Flats:15 Wedge:14
+
+title: _links_related_sku
+unique terms size: 722
+top 10 :14576 HB-GUMMI-WT/YL:10 HB-GUMMI-YL/PK:10 HB-GUMMI-SV:10 HB-GUMMI-CH/RD:10 HB-GUMMI-LM:10 HB-GUMMI-RD:10 HB-GUMMI-GD:10 HB-GUMMI-BL:10 HB-GUMMI-MN/PU:10
+
+title: _links_upsell_sku
+unique terms size: 807
+top 10 :5563 CAIRO5-BK:67 "Ami BL PK":56 "Mermaid GD":54 "Valerie PK":52 Brady-BK:51 "Sky BL":50 "Envy GD":49 "Valerie LPK":49 SWIRL-BK:48
+
+title: _media_image
+unique terms size: 2189
+top 10 :14400 /i/m/img_7220_1.jpg:2 /i/m/img_7219_1.jpg:2 /i/m/img_7221_1.jpg:2 /l/e/lexy_black_2.jpg:1 /i/m/img_0338_1.jpg:1 /i/m/img_8913.jpg:1 /s/t/storm_bk_3.jpg:1 /i/m/img_8905.jpg:1 /i/o/iona_br_2.jpg:1
+
+title: _super_products_sku
+unique terms size: 4345
+top 10 :12247 ALLEGRA-BL-6.5:1 BARBARA-RD-8.5:1 Anna1-BK-6.5:1 LAMB-PK-11:1 "Star CR-6.5":1 "Bubbles PU-10":1 IMMORTAL-WH-6.5:1 "Niny PK-7.5":1 DORRYN-CAMO-GR-10:1
+
+

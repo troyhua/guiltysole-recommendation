@@ -1,0 +1,11 @@
+Senario:
+    Prompt: Which of the two shoes you prefer?
+            A: (Render info for shoe A)
+            B: (Render info for shoe B)
+    (option: A, B, S)
+    (repeat this steps, S is for showing the current shoes ranking)
+
+Algorithm:
+    Assumption: We have a Hilbert space ( which can compute the similarity or distance of any pair of nodes in the space ), here a node is a shoe/SKU and the similarity is calculated based on attributes and user transaction history ( which is not available now ).
+
+
