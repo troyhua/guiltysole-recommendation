@@ -1,0 +1,14 @@
+71,name
+72,description
+73,short_description
+75,price
+80,weight
+82,meta_title
+84,meta_description
+85,image
+92,color
+97,url_key
+98,url_path
+143,ws_location
+152,mood
+153,style

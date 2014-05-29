@@ -16,10 +16,10 @@ class GameServer:
         pass
 
     def __init__(self):
-        self.load_shoes(self)
+        self.load_shoes()
 
     def get_next_samples(self, number):
-        centroids = self.kmean(number)
+        centroids = self.kmeans(number)
         current_centroids = centroids
         return centroids
 
@@ -57,13 +57,6 @@ class GameServer:
                     centroid = shoeA
             centroids.append(centroid)
         return centroids
-
-
-
-
-
-
-
 
 
 class Shoe:

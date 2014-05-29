@@ -25,14 +25,15 @@ class _GetchUnix:
             termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
         return ch
 
-#
-#class _GetchWindows:
-#    def __init__(self):
-#        import msvcrt
-#
-#    def __call__(self):
-#        import msvcrt
-#        return msvcrt.getch()
-
-
 getch = _Getch()
+
+
+def db_str2int(value):
+    if value[0] == '"':
+        try:
+            return int(value[1:-1])
+        except IndexError as e:
+            print value
+            raise e
+    else:
+        return int(value)
